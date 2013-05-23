@@ -3,10 +3,16 @@ are used.
 
 
 President=King
+
 CEO=Queen
+
 Manager=Rook
+
 Supervisor=Bishop
+
 TeamLeader=Knight
+
 Developer=Pawn
+
 
 Good luck!
